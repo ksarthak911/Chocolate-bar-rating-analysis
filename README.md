@@ -2,7 +2,7 @@
 Exploratory data analysis on the Chocolate Bar Ratings dataset provided on Kaggle by Rachael Tatman.
 
 # Scope of this Analysis
-Exploratory Data Analysis(EDA) is one of the most crucial steps in a Data Science project. EDA in layman term is a way of "Understanding the data with the help of visualizations and descriptive statistics". Scope of this project is to get the understand the different features and how they affect rating. Also, how is rating and cocoa ppercentage varies acroos region and time. 
+Exploratory Data Analysis(EDA) is one of the most crucial steps in a Data Science project. EDA in layman term is a way of "Understanding the data with the help of visualizations and descriptive statistics". Scope of this project is to get the understand the different features and how they affect rating. Also, how is rating and cocoa percentage varies acroos region and time. 
 I have learnt and understood basic art of data exploration and through this project I made an attempt at improving my EDA and visualization skills using the Chocolate Bar Ratings Dataset.
 
 # Source of Dataset
